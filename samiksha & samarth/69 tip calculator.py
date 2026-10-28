@@ -1,0 +1,9 @@
+bill=84.50
+tip_percent=18
+people=4
+tip=bill*tip_percent/100
+total=bill+tip
+per_person=round(total/people,2)
+print(tip)
+print(total)
+print(per_person)

@@ -1,6 +1,4 @@
 first = "second"
 last = "first"
-
-first = last
-last = first
-print(first , last)
+first,last=last,first
+print(first,last)
