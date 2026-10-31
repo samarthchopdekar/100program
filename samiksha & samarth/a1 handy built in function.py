@@ -1,0 +1,8 @@
+print(abs(-4.5))
+print(round(4.5))
+print(round(3.14159, 2))
+print(min(2,4,6,8))
+print(max(2,4,6,8))
+print(2**4)
+print(divmod(15,3))
+print(round(0.5), round(1.5), round(2.5), round(3.5))
